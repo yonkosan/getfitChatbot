@@ -1,6 +1,6 @@
 # Getfit Chatbot 
 ## Overview
-This is basic Fitness chatbot that utilizes the immense the QnA ability of GPT fine tuned with custome dataset to answer queries related fitness and health.
+Having a chatbot has become an increasing need in the buisness environment in today's world but making a chatbot from scratch is a extensive task that depletes too much resource and funds. This is basic Fitness chatbot that utilizes the immense the QnA ability of GPT fine tuned with custome dataset to answer queries related fitness and health.
 ## Installation
 * clone the rep
 ```bash
