@@ -20,6 +20,9 @@ streamlit run chatbot.py
 * Interact with the chatbot by typing questions, such as:
     * "What are some practical tips for staying hydrated throughout the day?"
  
+## Dataset is taken from:
+   https://huggingface.co/datasets/chibbss/fitness-chat-prompt-completion-dataset/tree/main
+ 
 # Walkthrough of the code:
 ### **1. Importing Libraries**
 
