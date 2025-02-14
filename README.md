@@ -20,7 +20,7 @@ streamlit run chatbot.py
 * Interact with the chatbot by typing questions, such as:
     * "What are some practical tips for staying hydrated throughout the day?"
  
-##Walkthrough of the code:
+### Walkthrough of the code:
 ### **1. Importing Libraries**
 
 ```python
